@@ -2,7 +2,7 @@
 title: new article
 author: 
 date: 
-tags: ["post", "featured"]
+tags: ["post"]
 image: 
 imageAlt: This asdvq2
 description: Lorem ipsum dolor 
